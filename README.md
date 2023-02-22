@@ -17,6 +17,8 @@
  7. 🌹   能够独立通过 Devtools 和 控制台 Network、Console、Debugger 解决问题，有强烈的代码洁癖
  8. 🙂  了解基本的 Linux 操作指令，Nginx 部署，以及基本的Mysql语句
 
-[[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-4b4v2Exw-1677072398936)(null)]](https://blog.csdn.net/qq_54093765?spm=1000.2115.3001.5343)
-[[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-BDK2v9u4-1677072399596)(null)]](mailto:874404358@qq.com)
+[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/qq_54093765?spm=1000.2115.3001.5343)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:929118967@qq.com)](mailto:874404358@qq.com)
+
+
 
